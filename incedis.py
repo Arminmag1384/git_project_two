@@ -5,5 +5,4 @@ for x in range(0,1000):
         print("tob")
     if x >= 1000:
         print(f"\t{x} : bye")
-    break
 print("good bye")
