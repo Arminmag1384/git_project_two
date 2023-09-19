@@ -1,4 +1,5 @@
-print("Hello git")
+y = input("what is name?")
+print(f"Hello {y}")
 for x in range(0,1000):
     print(f"{x}: hi")
     if x >= 10:
